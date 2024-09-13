@@ -15,9 +15,8 @@ assignees: ''
 * [list any details or assumptions if applicable]
 
 ### Acceptance Criteria
-``` Gherkin Syntax
+``` Gherkin Syntax ```
 
  **Given** [some context]
 **When** [some event occurs]
 **Then** [some expected outcome]
-```
